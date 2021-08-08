@@ -1,4 +1,6 @@
-**HAVE READ**
+# **HAVE READ**
+
+---
 
 1.Wang C, Huang H, Han X, et al. Video inpainting by jointly learning temporal structure and spatial details[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2019, 33: 5232-5239.
 
@@ -11,7 +13,9 @@
 11.Lee S, Oh S W, Won D Y, et al. Copy-and-Paste Networks for Deep Video Inpainting[C]//Proceedings of the IEEE International Conference on Computer Vision. 2019: 4413-4421.
 
 
-**Haven't READ:**
+# **Haven't READ:**
+
+---
 
 5.Chang Y L, Yu Liu Z, Hsu W. VORNet: Spatio-temporally Consistent Video Inpainting for Object Removal[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops. 2019: 0-0.
 
