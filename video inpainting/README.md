@@ -16,6 +16,8 @@
 
 13.Ouyang, Hao and Wang, Tengfei and Chen, Qifeng. Internal Video Inpainting by Implicit Long-range Propagation. ICCV 2021.
 
+14.Chuan Wang, Haibin Huang, Xiaoguang Han, Jue Wang: “Video Inpainting by Jointly Learning Temporal Structure and Spatial Details”, 2018
+
 # **Haven't READ:**
 
 ---
