@@ -8,12 +8,13 @@
 
 3.Kim D, Woo S, Lee J Y, et al. Deep video inpainting[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 5792-5801.
 
+9.Chang Y L, Liu Z Y, Lee K Y, et al. Free-form video inpainting with 3d gated convolution and temporal patchgan[C]//Proceedings of the IEEE International Conference on Computer Vision. 2019: 9066-9075.
+
 10.Oh S W, Lee S, Lee J Y, et al. Onion-Peel Networks for Deep Video Completion[C]//Proceedings of the IEEE International Conference on Computer Vision. 2019: 4403-4412.
 
 11.Lee S, Oh S W, Won D Y, et al. Copy-and-Paste Networks for Deep Video Inpainting[C]//Proceedings of the IEEE International Conference on Computer Vision. 2019: 4413-4421.
 
 13.Ouyang, Hao and Wang, Tengfei and Chen, Qifeng. Internal Video Inpainting by Implicit Long-range Propagation. ICCV 2021.
-
 
 # **Haven't READ:**
 
@@ -28,7 +29,5 @@
 8.Ding Y, Wang C, Huang H, et al. Frame-Recurrent Video Inpainting by Robust Optical Flow Inference[J]. arXiv preprint arXiv:1905.02882, 2019.
 
 4.Kim D, Woo S, Lee J Y, et al. Deep blind video decaptioning by temporal aggregation and recurrence[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 4263-4272.
-
-9.Chang Y L, Liu Z Y, Lee K Y, et al. Free-form video inpainting with 3d gated convolution and temporal patchgan[C]//Proceedings of the IEEE International Conference on Computer Vision. 2019: 9066-9075.
 
 12.Zhang H, Mai L, Xu N, et al. An Internal Learning Approach to Video Inpainting[C]//Proceedings of the IEEE International Conference on Computer Vision. 2019: 2720-2729.
