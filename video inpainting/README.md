@@ -12,6 +12,8 @@
 
 11.Lee S, Oh S W, Won D Y, et al. Copy-and-Paste Networks for Deep Video Inpainting[C]//Proceedings of the IEEE International Conference on Computer Vision. 2019: 4413-4421.
 
+13.Ouyang, Hao and Wang, Tengfei and Chen, Qifeng. Internal Video Inpainting by Implicit Long-range Propagation ICCV 2021.
+
 
 # **Haven't READ:**
 
