@@ -18,6 +18,10 @@
 
 14.Chuan Wang, Haibin Huang, Xiaoguang Han, Jue Wang: “Video Inpainting by Jointly Learning Temporal Structure and Spatial Details”, 2018
 
+15.Ya-Liang Chang, Zhe Yu Liu, Kuan-Ying Lee, Winston Hsu: “Learnable Gated Temporal Shift Module for Deep Video Inpainting”, 2019
+
+16.
+
 # **Haven't READ:**
 
 ---
