@@ -18,7 +18,7 @@
 
 14.Chuan Wang, Haibin Huang, Xiaoguang Han, Jue Wang: “Video Inpainting by Jointly Learning Temporal Structure and Spatial Details”, 2018
 
-15.Ya-Liang Chang, Zhe Yu Liu, Kuan-Ying Lee, Winston Hsu: “Learnable Gated Temporal Shift Module for Deep Video Inpainting”, 2019
+6.Ya-Liang Chang, Zhe Yu Liu, Kuan-Ying Lee, Winston Hsu: “Learnable Gated Temporal Shift Module for Deep Video Inpainting”, 2019
 
 16.
 
@@ -27,8 +27,6 @@
 ---
 
 5.Chang Y L, Yu Liu Z, Hsu W. VORNet: Spatio-temporally Consistent Video Inpainting for Object Removal[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops. 2019: 0-0.
-
-6.Chang Y L, Liu Z Y, Lee K Y, et al. Learnable gated temporal shift module for deep video inpainting[J]. arXiv preprint arXiv:1907.01131, 2019.(BMVC)
 
 7.Woo S, Kim D, Park K Y, et al. Align-and-Attend Network for Globally and Locally Coherent Video Inpainting[J]. arXiv preprint arXiv:1905.13066, 2019.
 
