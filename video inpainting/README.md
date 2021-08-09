@@ -28,7 +28,8 @@
 
 4.Kim D, Woo S, Lee J Y, et al. Deep blind video decaptioning by temporal aggregation and recurrence[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 4263-4272.
 
+12.Zhang H, Mai L, Xu N, et al. An Internal Learning Approach to Video Inpainting[C]//Proceedings of the IEEE International Conference on Computer Vision. 2019: 2720-2729.
+
 # **Haven't READ:**
 
 ---
-12.Zhang H, Mai L, Xu N, et al. An Internal Learning Approach to Video Inpainting[C]//Proceedings of the IEEE International Conference on Computer Vision. 2019: 2720-2729.
