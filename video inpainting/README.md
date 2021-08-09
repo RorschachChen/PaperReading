@@ -30,6 +30,10 @@
 
 12.Zhang H, Mai L, Xu N, et al. An Internal Learning Approach to Video Inpainting[C]//Proceedings of the IEEE International Conference on Computer Vision. 2019: 2720-2729.
 
+15.Rui Liu, Hanming Deng, Yangyi Huang, Xiaoyu Shi, Lewei Lu, Wenxiu Sun, Xiaogang Wang, Jifeng Dai, Hongsheng Li: “Decoupled Spatial-Temporal Transformer for Video Inpainting”, 2021
+
+16.Xueyan Zou, Linjie Yang, Ding Liu, Yong Jae Lee: “Progressive Temporal Feature Alignment Network for Video Inpainting”, 2021
+
 # **Haven't READ:**
 
 ---
