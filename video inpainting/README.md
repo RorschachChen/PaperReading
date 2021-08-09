@@ -24,11 +24,11 @@
 
 7.Woo S, Kim D, Park K Y, et al. Align-and-Attend Network for Globally and Locally Coherent Video Inpainting[J]. arXiv preprint arXiv:1905.13066, 2019.
 
+8.Ding Y, Wang C, Huang H, et al. Frame-Recurrent Video Inpainting by Robust Optical Flow Inference[J]. arXiv preprint arXiv:1905.02882, 2019.
+
 # **Haven't READ:**
 
 ---
-
-8.Ding Y, Wang C, Huang H, et al. Frame-Recurrent Video Inpainting by Robust Optical Flow Inference[J]. arXiv preprint arXiv:1905.02882, 2019.
 
 4.Kim D, Woo S, Lee J Y, et al. Deep blind video decaptioning by temporal aggregation and recurrence[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 4263-4272.
 
