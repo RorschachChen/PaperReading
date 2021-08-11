@@ -37,3 +37,5 @@
 # **Haven't READ:**
 
 ---
+
+17.Gabriel Eilertsen, Rafał K. Mantiuk, Jonas Unger: “Single-frame Regularization for Temporally Stable CNNs”, 2019, The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019
