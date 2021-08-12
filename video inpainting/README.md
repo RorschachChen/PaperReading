@@ -34,6 +34,10 @@
 
 16.Xueyan Zou, Linjie Yang, Ding Liu, Yong Jae Lee: “Progressive Temporal Feature Alignment Network for Video Inpainting”, 2021
 
+18.(Style Loss)Guilin Liu, Fitsum A. Reda, Kevin J. Shih, Ting-Chun Wang, Andrew Tao, Bryan Catanzaro: “Image Inpainting for Irregular Holes Using Partial Convolutions”, 2018;
+
+19.(Perceptual Loss)Leon A. Gatys, Alexander S. Ecker, Matthias Bethge: “A Neural Algorithm of Artistic Style”, 2015;
+
 # **Haven't READ:**
 
 ---
