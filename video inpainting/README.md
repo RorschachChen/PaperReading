@@ -38,6 +38,10 @@
 
 19.(Perceptual Loss)Leon A. Gatys, Alexander S. Ecker, Matthias Bethge: “A Neural Algorithm of Artistic Style”, 2015;
 
+20.(Perceptual)Justin Johnson, Alexandre Alahi, Li Fei-Fei: “Perceptual Losses for Real-Time Style Transfer and Super-Resolution”, 2016
+
+21.(Style)L. A. Gatys, A. S. Ecker and M. Bethge, "Image Style Transfer Using Convolutional Neural Networks," 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016, pp. 2414-2423, doi: 10.1109/CVPR.2016.265.
+
 # **Haven't READ:**
 
 ---
