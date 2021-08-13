@@ -1,0 +1,3 @@
+1. IL_video_inpainting, cuda==6.3.0 cannot be installed. Instead, check the /usr/local/cuda* to find out the cuda version on you computer, and
+pip install cupy-cuda11==7.8.0 works for me.
+Otherwise, you will see: cupy.cuda.driver.CUDADriverError: CUDA_ERROR_INVALID_PTX: a PTX JIT compilation failed
