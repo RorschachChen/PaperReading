@@ -30,6 +30,8 @@
 
     Code Check.
 
+8. Xiquan Guan, Huamin Feng, Weiming Zhang, Hang Zhou, Jie Zhang, and Nenghai Yu. 2020. Reversible Watermarking in Deep Convolutional Neural Networks for Integrity Authentication. In Proceedings of the 28th ACM International Conference on Multimedia
+
 # Haven't Read
 ---
-1. Xiquan Guan, Huamin Feng, Weiming Zhang, Hang Zhou, Jie Zhang, and Nenghai Yu. 2020. Reversible Watermarking in Deep Convolutional Neural Networks for Integrity Authentication. In Proceedings of the 28th ACM International Conference on Multimedia
+
