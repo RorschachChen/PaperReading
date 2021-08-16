@@ -1,6 +1,6 @@
 # Have Read
 ---
-1. Jie Zhang, Dongdong Chen, Jing Liao, Weiming Zhang, Gang Hua, Nenghai Yu: “Passport-aware Normalization for Deep Model Protection”, 2020
+1. (Passport)Jie Zhang, Dongdong Chen, Jing Liao, Weiming Zhang, Gang Hua, Nenghai Yu: “Passport-aware Normalization for Deep Model Protection”, 2020
 2. (Passport)Lixin Fan, Kam Woh Ng, Chee Seng Chan: “[Extended version] Rethinking Deep Neural Network Ownership Verification: Embedding Passports to Defeat Ambiguity Attacks”, 2019
 3. Jie Zhang, Dongdong Chen, Jing Liao, Han Fang, Zehua Ma, Weiming Zhang, Gang Hua, Nenghai Yu: “Exploring Structure Consistency for Deep Model Watermarking”, 2021
 4. Jie Zhang, Dongdong Chen, Jing Liao, Weiming Zhang, Huamin Feng, Gang Hua, Nenghai Yu: “Deep Model Intellectual Property Protection via Deep Watermarking”, 2021
