@@ -1,0 +1,40 @@
+Image tasks 
+digital watermarks embedding method: to embed an identification information (i.e. a digital watermark) into the network parameters without affecting the performances of original DL models.
+black-box trigger-based solutions: rely on adversarial training samples with either of these methods have successfully demonstrated robustness against removal attacks which involve modifications of the DNN weights such as fine-tuning or pruning.
+white-box feature-based methods: embed designated watermarks into the DNN weights by imposing additional regularization terms
+
+深度水印仍然是一个研究严重不足的领域，所有现有方法都只考虑分类任务。 在实际场景中，为图像处理任务标记训练数据比分类任务复杂和昂贵，因为它们的真实标签应该是像素级精确的。
+
+由于在大多数应用场景中不需要提供原始原始模型，它们可以很容易地用传统算法进行加密以抵抗白盒攻击（即微调或剪枝）
+
+Removal Attack: to remove or overwrite original watermark B, by modifying the DNN model weights W to W’. by replacing its original normalization layers.
+Ambiguity Attack: forge counterfeit watermarks (T’,s’) without modifying DNN model weights W
+
+The backdoor is defined as a hidden pattern injected into a deep neural network
+model by modifying the parameters while training. The backdoor does not affect the model’s performance on clean inputs, but forces the model to produce unexpected behavior if and only if a specific input is applied.
+
+sign loss: enforce the scale factor γ to take either positive or negative signs (+/-) as designated
+
+3  aspects of the ownership verification: fidelity, robustness and invertibility
+Fidelity:
+whether or not the discrepancy of model performances is less than a predefined threshold.
+Verification:
+whether or not the signature s or trigger set T successfully verified for a given DNN model.
+Invert:
+take a trained DNN model as input. The outcome is the model with forged watermark.
+
+illegal tampering Solutions:
+defense and authentication. 
+
+Existing Defense Methods:
+Neuron Cleanse scan output labels to infer the potential hidden triggers.
+Activation Clustering detect data maliciously inserted into the training set for injecting backdoors.
+Fine-Pruning remove backdoor triggers by pruning redundant neurons. 
+
+Authentication: embedding CNN watermarks.
+White-box and black-box
+White-box(Public): embed the watermark information in the model internals such as weights and bias. 
+
+
+Passport-based approach: 
+passport connected with inference performance
