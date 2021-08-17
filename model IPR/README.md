@@ -6,7 +6,7 @@ Main Idea: 将trigger set在pytorch等pretrained的相同网络每层上的featu
 
 1. (Passport)Jie Zhang, Dongdong Chen, Jing Liao, Weiming Zhang, Gang Hua, Nenghai Yu: “Passport-aware Normalization for Deep Model Protection”, 2020
 
-    Code Check. 代码上来看最大的改变在于get_scale和get_bias最后添加了一个三层的fc block。
+    Code Check. 代码上来看最大的改变在于get_scale和get_bias最后添加了一个三层的fc block。还有就是原版norm只能使用gn之后的那几个，这个版本的可以继续使用bn类型的norm。
     
     Main Idea: two-branch decoupled way。避免修改原网络结构。减少模型performance degradation. scala和bias learnable.
 
