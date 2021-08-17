@@ -22,6 +22,7 @@ Main Idea: 将trigger set在pytorch等pretrained的相同网络每层上的featu
 4. Jie Zhang, Dongdong Chen, Jing Liao, Han Fang, Zehua Ma, Weiming Zhang, Gang Hua, Nenghai Yu: “Exploring Structure Consistency for Deep Model Watermarking”, 2021
 
     No Code.
+    Motivation: Aug destroy watermark consistency.
 
 5. Jie Zhang, Dongdong Chen, Jing Liao, Weiming Zhang, Huamin Feng, Gang Hua, Nenghai Yu: “Deep Model Intellectual Property Protection via Deep Watermarking”, 2021
 
