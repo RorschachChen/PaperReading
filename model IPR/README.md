@@ -22,11 +22,16 @@ Main Idea: 将trigger set在pytorch等pretrained的相同网络每层上的featu
 4. Jie Zhang, Dongdong Chen, Jing Liao, Han Fang, Zehua Ma, Weiming Zhang, Gang Hua, Nenghai Yu: “Exploring Structure Consistency for Deep Model Watermarking”, 2021
 
     No Code.
+    
     Motivation: Aug destroy watermark consistency.
+    
+    Main Idea: embed watermark information into semantic structures. Incremental Training Strategy. Loss包含基础l2,adv,同时还考虑到structure(watermark) regions提取的watermark和GT要相近，非此region提取为空。同时没有watermark的图片提取为空。
 
 5. Jie Zhang, Dongdong Chen, Jing Liao, Weiming Zhang, Huamin Feng, Gang Hua, Nenghai Yu: “Deep Model Intellectual Property Protection via Deep Watermarking”, 2021
 
     No Code.
+    
+    Main Idea: Loss包含基础l2,perceptual,adv. 无wm clean loss. 鼓励从不同图片提取的wm相近。
 
 6. Jie Zhang, Dongdong Chen, Jing Liao, Han Fang, Weiming Zhang, Wenbo Zhou, Hao Cui, Nenghai Yu: “Model Watermarking for Image Processing Networks”, 2020
 
