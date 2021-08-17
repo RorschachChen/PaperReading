@@ -18,7 +18,7 @@ Main Idea: 将trigger set在pytorch等pretrained的相同网络每层上的featu
 
     Code Check. 原版
 
-## Deep Watermark
+## Deep Watermark: 主要针对surrogate model
 4. Jie Zhang, Dongdong Chen, Jing Liao, Han Fang, Zehua Ma, Weiming Zhang, Gang Hua, Nenghai Yu: “Exploring Structure Consistency for Deep Model Watermarking”, 2021
 
     No Code.
