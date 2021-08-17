@@ -53,3 +53,9 @@
 23. K. A. Patwardhan, G. Sapiro and M. Bertalmio, "Video Inpainting Under Constrained Camera Motion," in IEEE Transactions on Image Processing, vol. 16, no. 2, pp. 545-553, Feb. 2007, doi: 10.1109/TIP.2006.888343.
 
 24. Rohit Girdhar, João Carreira, Carl Doersch, Andrew Zisserman: “Video Action Transformer Network”, 2018
+
+25. Shuang Ma, Jianlong Fu, Chang Wen Chen, Tao Mei: “DA-GAN: Instance-level Image Translation by Deep Attention Generative Adversarial Networks (with Supplementary Materials)”, 2018
+
+26. Yang, F., Yang, H., Fu, J., Lu, H., Guo, B.: Learning texture transformer network for image super-resolution. In: CVPR. pp. 5791–5800 (2020)
+
+27. Zeng, Y., Fu, J., Chao, H., Guo, B.: Learning pyramid-context encoder network for high-quality image inpainting. In: CVPR. pp. 1486–1494 (2019)
