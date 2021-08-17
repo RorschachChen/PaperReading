@@ -47,3 +47,9 @@
 ---
 
 17.Gabriel Eilertsen, Rafał K. Mantiuk, Jonas Unger: “Single-frame Regularization for Temporally Stable CNNs”, 2019, The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019
+
+22. K. A. Patwardhan, G. Sapiro and M. Bertalmio, "Video inpainting of occluding and occluded objects," IEEE International Conference on Image Processing 2005, 2005, pp. II-69, doi: 10.1109/ICIP.2005.1529993.
+
+23. K. A. Patwardhan, G. Sapiro and M. Bertalmio, "Video Inpainting Under Constrained Camera Motion," in IEEE Transactions on Image Processing, vol. 16, no. 2, pp. 545-553, Feb. 2007, doi: 10.1109/TIP.2006.888343.
+
+24. Rohit Girdhar, João Carreira, Carl Doersch, Andrew Zisserman: “Video Action Transformer Network”, 2018
