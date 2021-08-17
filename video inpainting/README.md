@@ -65,3 +65,5 @@
 28. Z. Wu, K. Zhang, H. Xuan, J. Yang and Y. Yan, "DAPC-Net: Deformable Alignment and Pyramid Context Completion Networks for Video Inpainting," in IEEE Signal Processing Letters, vol. 28, pp. 1145-1149, 2021, doi: 10.1109/LSP.2021.3086400.
 
 29. Yusuke HARA, Xueting WANG, Toshihiko YAMASAKI, Video Inpainting by Frame Alignment with Deformable Convolution, IEICE Transactions on Information and Systems 
+
+30. Hugo Thimonier, Julien Despois, Robin Kips, Matthieu Perrot: “Learning Long-Term Style-Preserving Blind Video Temporal Consistency”, 2021 
