@@ -4,6 +4,8 @@
 1. (Passport)Jie Zhang, Dongdong Chen, Jing Liao, Weiming Zhang, Gang Hua, Nenghai Yu: “Passport-aware Normalization for Deep Model Protection”, 2020
 
     Code Check.
+    
+    Main Idea: 将trigger set在pytorch等pretrained的相同网络每层上的features作为passport。添加passport layer使得scale和bias因子成为passport的函数。当伪造的passport输入的时候会影响model的性能，通过fedility达到erification的目的。
 
 2. (Passport)Lixin Fan, Kam Woh Ng, Chee Seng Chan: “[Extended version] Rethinking Deep Neural Network Ownership Verification: Embedding Passports to Defeat Ambiguity Attacks”, 2019
 
@@ -33,6 +35,8 @@
 8. Xiquan Guan, Huamin Feng, Weiming Zhang, Hang Zhou, Jie Zhang, and Nenghai Yu. 2020. Reversible Watermarking in Deep Convolutional Neural Networks for Integrity Authentication. In Proceedings of the 28th ACM International Conference on Multimedia
 
     No code.
+    
+    Main Idea: 引申传统reversible watermark概念到image construction领域。利用entropy找到less important layer weight.然后在weight的小数非零位置挑选两位准备embed bit string。最后通过histogram shift方法正式嵌入
 
 # Haven't Read
 ---
