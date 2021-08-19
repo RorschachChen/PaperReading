@@ -44,3 +44,6 @@ def PSNR(img1, img2):
 		return 100
 	PIXEL_MAX = 1
 	return 20 * math.log10(PIXEL_MAX / math.sqrt(mse))
+
+def SSIM2(im1, im2):
+	return ssim = skimage.measure.compare_ssim(im1, im2, data_range=255)
