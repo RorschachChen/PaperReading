@@ -48,6 +48,12 @@ Main Idea: 将trigger set在pytorch等pretrained的相同网络每层上的featu
     No code.
     
     Main Idea: 引申传统reversible watermark概念到image construction领域。利用entropy找到less important layer weight.然后在weight的小数非零位置挑选两位准备embed bit string。最后通过histogram shift方法正式嵌入
+    
+## Others
+
+9. MaungMaung AprilPyone, Hitoshi Kiya: “Training DNN Model with Secret Key for Model Protection”, 2020
+
+    Main Idea: image classification。input分block加key再复原作为预处理。train和test时都使用预处理的。
 
 # Haven't Read
 ---
