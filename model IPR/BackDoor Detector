@@ -1,0 +1,5 @@
+Neural Cleanse detects backdoors by searching for a small perturbation that causes all inputs to be classified to a specific label, and detecting it as an anomaly
+(e.g. whose anomaly index >2).
+
+ABS detects backdoors by iteratively stimulating internal model neurons and watching for abnormal model output behaviors. If any neurons cause abnormal outputs,
+ABS reverse engineers backdoor triggers that optimally activate the neuron.
