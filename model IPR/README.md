@@ -58,3 +58,4 @@ Main Idea: 将trigger set在pytorch等pretrained的相同网络每层上的featu
 # Haven't Read
 ---
 
+10. Huiying Li, Emily Wenger, Shawn Shan, Ben Y. Zhao, Haitao Zheng: “Piracy Resistant Watermarks for Deep Neural Networks”, 2019
