@@ -54,6 +54,10 @@ Main Idea: 将trigger set在pytorch等pretrained的相同网络每层上的featu
 9. MaungMaung AprilPyone, Hitoshi Kiya: “Training DNN Model with Secret Key for Model Protection”, 2020
 
     Main Idea: image classification。input分block加key再复原作为预处理。train和test时都使用预处理的。
+    
+10. Mingfu Xue, Yushu Zhang, Jian Wang, Weiqiang Liu: “Intellectual Property Protection for Deep Learning Models: Taxonomy, Methods, Attacks, and Evaluations”, 2020
+
+    Main Idea: model ip问题overview总览及企盼
 
 # Haven't Read
 ---
