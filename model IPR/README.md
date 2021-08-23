@@ -61,7 +61,7 @@ Main Idea: 将trigger set在pytorch等pretrained的相同网络每层上的featu
     
 14. Yuanchun Li, Ziqi Zhang, Bingyan Liu, Ziyue Yang, Yunxin Liu: “ModelDiff: Testing-Based DNN Similarity Comparison for Model Reuse Detection”, 2021
 
-    cod[ModelDiff](https://github.com/ylimit/ModelDiff)
+    code: [ModelDiff](https://github.com/ylimit/ModelDiff)
     
 ## Artificial Fingerprints
 
