@@ -41,7 +41,7 @@ Main Idea: 将trigger set在pytorch等pretrained的相同网络每层上的featu
 
 7. (GAN) Ding Sheng Ong, Chee Seng Chan, Kam Woh Ng, Lixin Fan, Qiang Yang: “Protecting Intellectual Property of Generative Adversarial Networks from Ambiguity Attack”, 2021
 
-    Code Check.
+    Code: [ipr-gan](https://github.com/dingsheng-ong/ipr-gan)
     
     Main Idea: 通过在loss中嵌入SSIM，通过对input noise进行transform创造一个distribution不同的trigger。同时利用wm image创造一个specific target，让Generator产生的output和这个target尽可能相似。同时perceptual和adv穿插着出现。针对white-box attack，把signature嵌入norm层(scale和bias那一套)，随后用提取的signature验证。
 
