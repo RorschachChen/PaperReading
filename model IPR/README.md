@@ -69,6 +69,10 @@ Main Idea: 将trigger set在pytorch等pretrained的相同网络每层上的featu
 
 12. Ning Yu, Vladislav Skripniuk, Sahar Abdelnabi, Mario Fritz: “Artificial Fingerprinting for Generative Models: Rooting Deepfake Attribution in Training Data”, 2020
 
+14. Xiaoyu Cao, Jinyuan Jia, and Neil Zhenqiang Gong. 2019. IPGuard: Protecting the Intellectual Property of Deep Neural Networks via Fingerprinting the
+Classification Boundary. arXiv preprint arXiv:1910.12903 (2019).
+    Main Idea:在decision boundary附近找一堆点，和在这些点上的prediction作为验证集。
+
 ## Traditional Method Involved
 
 13. Feng, Le & Zhang, Xinpeng. (2020). Watermarking Neural Network with Compensation Mechanism. 10.1007/978-3-030-55393-7_33. 
