@@ -71,6 +71,7 @@ Main Idea: 将trigger set在pytorch等pretrained的相同网络每层上的featu
 
 14. Xiaoyu Cao, Jinyuan Jia, and Neil Zhenqiang Gong. 2019. IPGuard: Protecting the Intellectual Property of Deep Neural Networks via Fingerprinting the
 Classification Boundary. arXiv preprint arXiv:1910.12903 (2019).
+
     Main Idea:在decision boundary附近找一堆点，和在这些点上的prediction作为验证集。
 
 ## Traditional Method Involved
