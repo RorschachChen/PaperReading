@@ -10,11 +10,11 @@ Main Idea: 将trigger set在pytorch等pretrained的相同网络每层上的featu
     
     Main Idea: two-branch decoupled way。避免修改原网络结构。减少模型performance degradation. scala和bias learnable.
     
-    Code: [Passport-aware-normalzation]https://github.com/ZJZAC/Passport-aware-Normalization
+    Code: [Passport-aware-normalzation](https://github.com/ZJZAC/Passport-aware-Normalization)
 
 2. (Passport)Lixin Fan, Kam Woh Ng, Chee Seng Chan: “[Extended version] Rethinking Deep Neural Network Ownership Verification: Embedding Passports to Defeat Ambiguity Attacks”, 2019
 
-    Code: [DeepIPR]https://github.com/kamwoh/DeepIPR
+    Code: [DeepIPR](https://github.com/kamwoh/DeepIPR)
 
 3. (Passport)L. Fan, K. W. Ng, C. S. Chan and Q. Yang, "DeepIPR: Deep Neural Network Intellectual Property Protection with Passports," in IEEE Transactions on Pattern Analysis and Machine Intelligence, doi: 10.1109/TPAMI.2021.3088846.
 
