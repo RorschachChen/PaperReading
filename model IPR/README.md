@@ -63,6 +63,12 @@ Main Idea: 将trigger set在pytorch等pretrained的相同网络每层上的featu
 
 12. Ning Yu, Vladislav Skripniuk, Sahar Abdelnabi, Mario Fritz: “Artificial Fingerprinting for Generative Models: Rooting Deepfake Attribution in Training Data”, 2020
 
+## Traditional Method Involved
+
+13. Feng, Le & Zhang, Xinpeng. (2020). Watermarking Neural Network with Compensation Mechanism. 10.1007/978-3-030-55393-7_33. 
+
+    Review: 使用了传统的一些加密手段，徐奥一定知识积累。
+
 # Haven't Read
 ---
 
