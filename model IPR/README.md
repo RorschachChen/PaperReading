@@ -65,6 +65,8 @@ Main Idea: 将trigger set在pytorch等pretrained的相同网络每层上的featu
     
 ## Artificial Fingerprints
 
+已知缺陷: require the models to have the same output space.
+
 12. Ning Yu, Vladislav Skripniuk, Sahar Abdelnabi, Mario Fritz: “Artificial Fingerprinting for Generative Models: Rooting Deepfake Attribution in Training Data”, 2020
 
 ## Traditional Method Involved
