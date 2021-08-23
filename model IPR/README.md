@@ -10,7 +10,7 @@ Main Idea: 将trigger set在pytorch等pretrained的相同网络每层上的featu
     
     Main Idea: two-branch decoupled way。避免修改原网络结构。减少模型performance degradation. scala和bias learnable.
     
-    Code: [Passport-aware-normalzation](https://github.com/ZJZAC/Passport-aware-Normalization)
+    Code: [Passport-aware-normalization](https://github.com/ZJZAC/Passport-aware-Normalization)
 
 2. (Passport)Lixin Fan, Kam Woh Ng, Chee Seng Chan: “[Extended version] Rethinking Deep Neural Network Ownership Verification: Embedding Passports to Defeat Ambiguity Attacks”, 2019
 
