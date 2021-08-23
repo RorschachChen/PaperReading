@@ -73,6 +73,11 @@ Main Idea: 将trigger set在pytorch等pretrained的相同网络每层上的featu
 Classification Boundary. arXiv preprint arXiv:1910.12903 (2019).
 
     Main Idea:在decision boundary附近找一堆点，和在这些点上的prediction作为验证集。
+    
+15. Nils Lukas, Yuxuan Zhang, and Florian Kerschbaum. 2019. Deep Neural Network Fingerprinting by Conferrable Adversarial Examples. arXiv preprint
+arXiv:1912.00888 (2019).
+
+    Main Idea: introduced the concept of conferrable inputs, i.e. targeted adversarial inputs that are transferable to surrogate models while not transferable to reference models that are trained independently. 
 
 ## Traditional Method Involved
 
