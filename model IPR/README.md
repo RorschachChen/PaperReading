@@ -9,10 +9,12 @@ Main Idea: 将trigger set在pytorch等pretrained的相同网络每层上的featu
     Code Check. 代码上来看最大的改变在于get_scale和get_bias最后添加了一个三层的fc block。还有就是原版norm只能使用gn之后的那几个，这个版本的可以继续使用bn类型的norm。
     
     Main Idea: two-branch decoupled way。避免修改原网络结构。减少模型performance degradation. scala和bias learnable.
+    
+    Code: [Passport-aware-normalzation]https://github.com/ZJZAC/Passport-aware-Normalization
 
 2. (Passport)Lixin Fan, Kam Woh Ng, Chee Seng Chan: “[Extended version] Rethinking Deep Neural Network Ownership Verification: Embedding Passports to Defeat Ambiguity Attacks”, 2019
 
-    Code Check. 原版
+    Code: [DeepIPR]https://github.com/kamwoh/DeepIPR
 
 3. (Passport)L. Fan, K. W. Ng, C. S. Chan and Q. Yang, "DeepIPR: Deep Neural Network Intellectual Property Protection with Passports," in IEEE Transactions on Pattern Analysis and Machine Intelligence, doi: 10.1109/TPAMI.2021.3088846.
 
