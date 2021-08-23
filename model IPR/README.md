@@ -59,6 +59,8 @@ Main Idea: 将trigger set在pytorch等pretrained的相同网络每层上的featu
 
     Main Idea: model ip问题overview总览及企盼
     
+14. Yuanchun Li, Ziqi Zhang, Bingyan Liu, Ziyue Yang, Yunxin Liu: “ModelDiff: Testing-Based DNN Similarity Comparison for Model Reuse Detection”, 2021
+    
 ## Artificial Fingerprints
 
 12. Ning Yu, Vladislav Skripniuk, Sahar Abdelnabi, Mario Fritz: “Artificial Fingerprinting for Generative Models: Rooting Deepfake Attribution in Training Data”, 2020
