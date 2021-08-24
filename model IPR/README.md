@@ -65,6 +65,8 @@ Main Idea: 将trigger set在pytorch等pretrained的相同网络每层上的featu
 
     code: [ModelDiff](https://github.com/ylimit/ModelDiff)
     
+18. Tang, Ruixiang & Du, Mengnan & Hu, Xia. (2020). Deep Serial Number: Computational Watermarking for DNN Intellectual Property Protection. 
+    
 ## Artificial Fingerprints
 
 已知缺陷: require the models to have the same output space.
