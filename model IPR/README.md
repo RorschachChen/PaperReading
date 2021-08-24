@@ -90,8 +90,12 @@ arXiv:1912.00888 (2019).
 16. MaungMaung AprilPyone, Hitoshi Kiya: “Piracy-Resistant DNN Watermarking by Block-Wise Image Transformation with Secret Key”, 2021
 
     Main Idea: 分block,然后把Binary Key K作为mask改变每个block的值,制造transformed的图片加入训练.使网络记住这一种transform,这样测试的时候只需要对比网络对original test和transformed test输出是否一样就能verify.
+    
+## Embed During Training
+
+10. Huiying Li, Emily Wenger, Shawn Shan, Ben Y. Zhao, Haitao Zheng: “Piracy Resistant Watermarks for Deep Neural Networks”, 2019
 
 # Haven't Read
 ---
 
-10. Huiying Li, Emily Wenger, Shawn Shan, Ben Y. Zhao, Haitao Zheng: “Piracy Resistant Watermarks for Deep Neural Networks”, 2019
+
