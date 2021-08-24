@@ -85,7 +85,11 @@ arXiv:1912.00888 (2019).
 
 13. Feng, Le & Zhang, Xinpeng. (2020). Watermarking Neural Network with Compensation Mechanism. 10.1007/978-3-030-55393-7_33. 
 
-    Review: 使用了传统的一些加密手段，徐奥一定知识积累。
+    Review: 使用了传统的一些加密手段，需要一定知识积累。
+    
+16. MaungMaung AprilPyone, Hitoshi Kiya: “Piracy-Resistant DNN Watermarking by Block-Wise Image Transformation with Secret Key”, 2021
+
+    Main Idea: 分block,然后把Binary Key K作为mask改变每个block的值,制造transformed的图片加入训练.使网络记住这一种transform,这样测试的时候只需要对比网络对original test和transformed test输出是否一样就能verify.
 
 # Haven't Read
 ---
