@@ -99,6 +99,20 @@ arXiv:1912.00888 (2019).
 
 ## textual domain
 
+## Model Independent
+
+20. Y. Adi, C. Baum, M. Cisse, B. Pinkas, and J. Keshet, “Turning your weakness into a strength: Watermarking deep neural networks by backdooring,”
+
+    Main Idea: trigger set的label是随机的.
+    
+21. J. Zhang, Z. Gu, J. Jang, H. Wu, M. P. Stoecklin, H. Huang, and I. Molloy, “Protecting intellectual property of deep neural networks with watermarking
+
+    Main Idea: 来自同一个类的image,加上additive mask或者noise mask,还有一种是用其他domain的图片作为watermark key.
+    
+## Model Dependent
+
+22. 
+
 # Haven't Read
 ---
 
