@@ -104,3 +104,4 @@ arXiv:1912.00888 (2019).
 
 17. Mohammad Mehdi Yadollahi, Farzaneh Shoeleh, Sajjad Dadkhah, Ali A. Ghorbani: “Robust Black-box Watermarking for Deep NeuralNetwork using Inverse Document Frequency”, 2021
 
+19. Lukas N, Jiang E, Li X, et al. SoK: How Robust is Image Classification Deep Neural Network Watermarking?(Extended Version)[J]. arXiv preprint arXiv:2108.04974, 2021.
