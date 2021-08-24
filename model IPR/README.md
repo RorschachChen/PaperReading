@@ -111,7 +111,17 @@ arXiv:1912.00888 (2019).
     
 ## Model Dependent
 
-22. 
+22. E. Le Merrer, P. Perez, and G. Tredan, “Adversarial frontier stitching for remote neural network watermarking"
+    
+    Main Idea: 使用可能被识别错误也可能被识别正确的对抗样本作为watermark key.
+    
+23. The authors propose a pre-processing step that clusters all class labels into two groups using k-means clustering on the pre-trained source model’s logit activations.
+
+    Main Idea: 根据logit的输出使用KNN分成两类,再使用另一个cluster的label学习生成对抗样本,其余步骤同上.
+    
+24. H. Jia, C. A. Choquette-Choo, and N. Papernot, “Entangled watermarks as a defense against model extraction,”
+
+    Main Idea: 
 
 # Haven't Read
 ---
