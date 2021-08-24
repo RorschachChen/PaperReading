@@ -95,7 +95,10 @@ arXiv:1912.00888 (2019).
 
 10. Huiying Li, Emily Wenger, Shawn Shan, Ben Y. Zhao, Haitao Zheng: “Piracy Resistant Watermarks for Deep Neural Networks”, 2019
 
+## textual domain
+
 # Haven't Read
 ---
 
+17. Mohammad Mehdi Yadollahi, Farzaneh Shoeleh, Sajjad Dadkhah, Ali A. Ghorbani: “Robust Black-box Watermarking for Deep NeuralNetwork using Inverse Document Frequency”, 2021
 
