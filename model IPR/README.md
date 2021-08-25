@@ -109,7 +109,7 @@ arXiv:1912.00888 (2019).
 
     Main Idea: 来自同一个类的image,加上additive mask或者noise mask,还有一种是用其他domain的图片作为watermark key.
     
-## Model Dependent
+## Model Dependent: 类似手法有针对model生成对抗样本,跟模型有关.
 
 22. E. Le Merrer, P. Perez, and G. Tredan, “Adversarial frontier stitching for remote neural network watermarking"
     
