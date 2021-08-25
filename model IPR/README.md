@@ -66,6 +66,10 @@ Main Idea: 将trigger set在pytorch等pretrained的相同网络每层上的featu
     code: [ModelDiff](https://github.com/ylimit/ModelDiff)
     
 18. Tang, Ruixiang & Du, Mengnan & Hu, Xia. (2020). Deep Serial Number: Computational Watermarking for DNN Intellectual Property Protection. 
+
+25. Bita Darvish Rouhani, Huili Chen, Farinaz Koushanfar: “DeepSigns: A Generic Watermarking Framework for IP Protection of Deep Learning Models”, 2018
+
+    Main Idea: use the activations of some target layer of the source model to encode a message. 从属于同一源类的样本中提取的特征形成簇，其特性可用于嵌入水印信息。
     
 ## Artificial Fingerprints
 
