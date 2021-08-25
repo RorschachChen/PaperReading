@@ -99,7 +99,7 @@ arXiv:1912.00888 (2019).
 
 ## textual domain
 
-## Model Independent
+## Model Independent: 不关注model本身,只修改training set
 
 20. Y. Adi, C. Baum, M. Cisse, B. Pinkas, and J. Keshet, “Turning your weakness into a strength: Watermarking deep neural networks by backdooring,”
 
