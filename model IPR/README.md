@@ -71,6 +71,10 @@ Main Idea: 将trigger set在pytorch等pretrained的相同网络每层上的featu
 
     Main Idea: use the activations of some target layer of the source model to encode a message. 从属于同一源类的样本中提取的特征形成簇，其特性可用于嵌入水印信息。
     
+26. B. Wang, Y. Yao, S. Shan, H. Li, B. Viswanath, H. Zheng, and B. Y.Zhao, “Neural cleanse: Identifying and mitigating backdoor attacks in neural networks,”
+    
+    Main Idea: For backdoor removal. It first reverse-engineers the watermark trigger and then remoes the trigger from the model. 
+    
 ## Artificial Fingerprints
 
 已知缺陷: require the models to have the same output space.
