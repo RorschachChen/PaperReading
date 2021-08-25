@@ -75,6 +75,8 @@ Main Idea: 将trigger set在pytorch等pretrained的相同网络每层上的featu
     
     Main Idea: For backdoor removal. It first reverse-engineers the watermark trigger and then remoes the trigger from the model. 
     
+19. Lukas N, Jiang E, Li X, et al. SoK: How Robust is Image Classification Deep Neural Network Watermarking?(Extended Version)[J]. arXiv preprint arXiv:2108.04974, 2021.
+    
 ## Artificial Fingerprints
 
 已知缺陷: require the models to have the same output space.
@@ -135,5 +137,3 @@ arXiv:1912.00888 (2019).
 ---
 
 17. Mohammad Mehdi Yadollahi, Farzaneh Shoeleh, Sajjad Dadkhah, Ali A. Ghorbani: “Robust Black-box Watermarking for Deep NeuralNetwork using Inverse Document Frequency”, 2021
-
-19. Lukas N, Jiang E, Li X, et al. SoK: How Robust is Image Classification Deep Neural Network Watermarking?(Extended Version)[J]. arXiv preprint arXiv:2108.04974, 2021.
