@@ -51,6 +51,12 @@ Main Idea: 将trigger set在pytorch等pretrained的相同网络每层上的featu
     
     Main Idea: 引申传统reversible watermark概念到image construction领域。利用entropy找到less important layer weight.然后在weight的小数非零位置挑选两位准备embed bit string。最后通过histogram shift方法正式嵌入
     
+27. Xin Zhong, Frank Y. Shih: “A Robust Image Watermarking System Based on Deep Neural Networks”, 2019
+
+28. Xin Zhong, Pei-Chi Huang, Spyridon Mastorakis, Frank Y. Shih: “An Automated and Robust Image Watermarking Scheme Based on Deep Neural Networks”, 2020
+
+29. Yuki Nagai, Yusuke Uchida, Shigeyuki Sakazawa, Shin'ichi Satoh: “Digital Watermarking for Deep Neural Networks”, 2018
+    
 ## Others
 
 9. MaungMaung AprilPyone, Hitoshi Kiya: “Training DNN Model with Secret Key for Model Protection”, 2020
