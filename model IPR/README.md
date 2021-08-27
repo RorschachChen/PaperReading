@@ -143,3 +143,7 @@ arXiv:1912.00888 (2019).
 ---
 
 17. Mohammad Mehdi Yadollahi, Farzaneh Shoeleh, Sajjad Dadkhah, Ali A. Ghorbani: “Robust Black-box Watermarking for Deep NeuralNetwork using Inverse Document Frequency”, 2021
+
+30. Changhoon Kim, Yi Ren, Yezhou Yang: “Decentralized Attribution of Generative Models”, 2020
+
+    Main Idea: attributability
