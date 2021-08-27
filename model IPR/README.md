@@ -147,3 +147,5 @@ arXiv:1912.00888 (2019).
 30. Changhoon Kim, Yi Ren, Yezhou Yang: “Decentralized Attribution of Generative Models”, 2020
 
     Main Idea: attributability
+    
+31. Convolutional Neural Network-Based Digital Image Watermarking Adaptive to the Resolution of Image and Watermark
