@@ -1,3 +1,7 @@
+# Have Read
+
+5. Mohamed Hamidi, Mohamed El Haziti, Hocine Cherifi, Driss Aboutajdine: “A blind Robust Image Watermarking Approach exploiting the DFT Magnitude”, 2019
+
 # Haven't Read
 ---
 1. Z. Li, K.-H. Yap, and B.-Y. Lei, “A new blind robust image watermarking scheme in svd-dct composite domain,” in Image Processing (ICIP), 2011 18th IEEE International Conference on.
