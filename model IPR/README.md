@@ -86,6 +86,8 @@ Main Idea: 将trigger set在pytorch等pretrained的相同网络每层上的featu
     Main Idea: For backdoor removal. It first reverse-engineers the watermark trigger and then remoes the trigger from the model. 
     
 19. Lukas N, Jiang E, Li X, et al. SoK: How Robust is Image Classification Deep Neural Network Watermarking?(Extended Version)[J]. arXiv preprint arXiv:2108.04974, 2021.
+
+    Main Idea: 复现各类paper，综述类文章
     
 ## Artificial Fingerprints
 
