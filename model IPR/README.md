@@ -1,3 +1,7 @@
+# Always Remember
+
+focus on embedding watermark in model, not images.
+
 # Have Read
 ---
 ## Passport-based
